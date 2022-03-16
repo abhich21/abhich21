@@ -114,14 +114,14 @@ consists of and doesn't reflect experience or skill level.
 
 ## Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/avinash-kumar-20a359211/"
+  <a href="https://www.linkedin.com/in/abhishek-choudhary-06856a230/"
     ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"
   /></a>
   <!-- <a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 </p>
 ## ❤ Views and Followers
 <a href="https://github.com/abhich21/github-profile-views-counter">
-  <img src="https://komarev.com/ghpvc/?username=Avinash7564" />
+  <img src="https://komarev.com/ghpvc/?username=abhich21" />
 </a>
 <a href="https://github.com/abhich21?tab=followers"
   ><img
