@@ -113,7 +113,7 @@ consists of and doesn't reflect experience or skill level.
 
 ## Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/abhishek-choudhary-06856a230/" target="_blank">
+  <a href="https://www.linkedin.com/in/abhishek-choudhary-06856a230/" target="_">
    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"
   /></a>
   <!-- <a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
