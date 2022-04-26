@@ -111,6 +111,8 @@ consists of and doesn't reflect experience or skill level.
 /></a>
 <br />
 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhich21&theme=react&hide_border=true&bg_color=0D1117" alt="abhich21" /></p>
+
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/abhishek-choudhary-06856a230/"
