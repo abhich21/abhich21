@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-abhishek-choudhary.vercel.app/](https://portfolio-abhishek-choudhary.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-new-five-black.vercel.app/](https://portfolio-new-five-black.vercel.app/)
+
 
 - 💬 Ask me about **JavaScript, React, Redux, Java, Springboot**
 
