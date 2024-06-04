@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **abhich2109@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1tMlhciWOl8o0OrY5ZeBxtjgOuSx2GZdR?usp=sharing](https://drive.google.com/drive/folders/1tMlhciWOl8o0OrY5ZeBxtjgOuSx2GZdR?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YOaTK5tzlUlq7LtZksU9uRBEqEsylzTZ/view](https://drive.google.com/file/d/1YOaTK5tzlUlq7LtZksU9uRBEqEsylzTZ/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
